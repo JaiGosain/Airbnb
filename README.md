@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Airbnb Clone - MERN Stack
 
 A full-stack Airbnb clone built with MongoDB, Express.js, React, and Node.js.
@@ -111,3 +112,6 @@ This will start both the backend server (port 5000) and frontend development ser
 - `POST /api/orders/:id/verify-razorpay-payment` - Verify Razorpay payment (authenticated)
 - `POST /api/orders/:id/payment` - Process payment (authenticated)
 - `PUT /api/orders/:id/cancel` - Cancel order (authenticated)
+=======
+# Airbnb
+>>>>>>> 9b1e386142cb09d4c765eb1430138a6bb47812f7
