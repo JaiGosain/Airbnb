@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Airbnb Clone - MERN Stack
 
 A full-stack Airbnb clone built with MongoDB, Express.js, React, and Node.js.
@@ -115,3 +116,28 @@ This will start both the backend server (port 5000) and frontend development ser
 =======
 # Airbnb
 >>>>>>> 9b1e386142cb09d4c765eb1430138a6bb47812f7
+=======
+# Airbnb Clone
+
+A full-stack Airbnb-style hotel booking application built using the MERN stack.
+
+## 🚀 Tech Stack
+- MongoDB
+- Express.js
+- React
+- Node.js
+
+## ✨ Features
+- User authentication (Login / Signup)
+- Property listings with details
+- Booking functionality
+- Responsive UI
+- RESTful APIs
+- Secure backend with JWT authentication
+
+## 📂 Project Type
+Full Stack Web Application (MERN)
+
+## 👨‍💻 Author
+Jai Gosain
+>>>>>>> 5eb17f326155d85250d10d9c181f32331549a07c
